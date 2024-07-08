@@ -1,4 +1,4 @@
-# TP2-AA2
+# TP2-AA2 Navarro-Rovere_Sanchez
 Trabajo Practico 2 - Aprendizaje Automático 2
 
 ### Modelos ejercicio 2: 
